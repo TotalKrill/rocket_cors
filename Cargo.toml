@@ -37,6 +37,7 @@ unicase_serde = { version = "0.1.0", optional = true }
 version = "0.5.0-dev"
 git = "https://github.com/SergioBenitez/Rocket.git"
 #rev = "31712018bb0ccf63d4e9473cc0740c6b7c19cca5"
+rev = "1e623c8aaa3ae9235d6129c02cbb54d953008060"
 default-features = false
 
 [dev-dependencies]
